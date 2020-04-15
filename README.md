@@ -1,6 +1,34 @@
 # MathGeo
 A toolbox for seismic data processing from Center of Geopyhsics, Harbin Institute of Technology, China
 
+## 2020 updates
+
+# Deep learning related works
+
+* python_segy
+
+A Denoised CNN is use for attenuation of random noise, linear noise and multiples.
+
+Reference:
+
+S. Yu, J. Ma*, W. Wang, Deep learning for denoising, Geophysics, 2019, 84 (6), V333-V350
+
+* FCNVMB
+
+A U-Net is used for predicting velocity model from raw prestack seismic records.
+
+Reference:
+
+F. Yang, J. Ma*, Deep-learning inversion: a next generation seismic velocity model building method, Geophysics, 2019, 84 (4), R583-R599.
+
+* Zhang
+
+A combination of CNN denoiser and POCS is used for seismic interpolation. 
+
+Reference:
+
+H. Zhang, X. Yang, J. Ma*, Can learning from natural image denoising be used for seismic data interpolation, Geophysics, 2020, 85 (4)
+
 ## 2018 updates
 
 * GMD
