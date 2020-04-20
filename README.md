@@ -90,7 +90,7 @@ We propose a simple yet efficient interpolation algorithm, which is based on the
 
 Reference:
 
-Y. Jia, S. Yu, L. Liu, et al. A fast rank-reduction algorithm for three-dimensional seismic data interpolation. Journal of Applied Geophysics, 2016, 132:137-145.
+Y. Jia, S. Yu, L. Liu, J. Ma, A fast rank-reduction algorithm for three-dimensional seismic data interpolation. Journal of Applied Geophysics, 2016, 132:137-145.
 
 * RegistrationMultiComponent:
 
@@ -98,7 +98,7 @@ We propose a new curvelet-based registration method to improve the precision of 
 
 Reference:
 
-Wang H, Cheng Y, Ma J. Curvelet-based registration of multi-component seismic waves. Journal of Applied Geophysics, 2014, 104(5):90-96.
+H. Wang, Y. Cheng, J. Ma, Curvelet-based registration of multi-component seismic waves. Journal of Applied Geophysics, 2014, 104(5):90-96.
 
 * DL_toolbox
 
