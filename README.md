@@ -7,7 +7,7 @@ A toolbox for seismic data processing from Center of Geopyhsics, Harbin Institut
 
 * python_segy
 
-A Denoised CNN is use for attenuation of random noise, linear noise and multiples.
+A Denoised CNN is use for attenuation of random noise.
 
 Reference:
 
