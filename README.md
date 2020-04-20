@@ -21,7 +21,7 @@ Reference:
 
 F. Yang, J. Ma*, Deep-learning inversion: a next generation seismic velocity model building method, Geophysics, 2019, 84 (4), R583-R599.
 
-* Zhang
+* CNN-POCS
 
 A combination of CNN denoiser and POCS is used for seismic interpolation. 
 
