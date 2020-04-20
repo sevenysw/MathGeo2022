@@ -11,7 +11,7 @@ A Denoised CNN is use for attenuation of random noise.
 
 Reference:
 
-S. Yu, J. Ma*, W. Wang, Deep learning for denoising, Geophysics, 2019, 84 (6), V333-V350
+S. Yu, J. Ma, W. Wang, Deep learning for denoising, Geophysics, 2019, 84 (6), V333-V350
 
 * FCNVMB
 
@@ -19,7 +19,7 @@ A U-Net is used for predicting velocity model from raw prestack seismic records.
 
 Reference:
 
-F. Yang, J. Ma*, Deep-learning inversion: a next generation seismic velocity model building method, Geophysics, 2019, 84 (4), R583-R599.
+F. Yang, J. Ma, Deep-learning inversion: a next generation seismic velocity model building method, Geophysics, 2019, 84 (4), R583-R599.
 
 * CNN-POCS
 
@@ -27,7 +27,7 @@ A combination of CNN denoiser and POCS is used for seismic interpolation.
 
 Reference:
 
-H. Zhang, X. Yang, J. Ma*, Can learning from natural image denoising be used for seismic data interpolation, Geophysics, 2020, 85 (4)
+H. Zhang, X. Yang, J. Ma, Can learning from natural image denoising be used for seismic data interpolation, Geophysics, 2020, 85 (4)
 
 ## 2018 updates
 
@@ -46,7 +46,7 @@ Gradient-vector matrices are formed by collecting gradient vectors in a local se
 
 Reference:
 
-K. Cai, J. Ma, GVRO: gradient vector rank-one regularization with applications on seismic data processing, Geophysical Prospecting, 2018
+K. Cai, J. Ma, MDCA: multidirectional component analysis for robust estimation of multiple local dips, IEEE Transactions on Geoscience and Remote Sensing, 2019, 57 (5), 2798-2810.
 
 * SR1
 
@@ -54,7 +54,7 @@ We presented a generalization of the low-rank approximation, which allows to ind
 
 Reference:
 
-F. Bossmann, J. Ma, Enhanced image approximation using shifted rank-1 reconstruction, http://arxiv.org/abs/1810.01681
+F. Bossmann, J. Ma, Enhanced image approximation using shifted rank-1 reconstruction, Inverse Problems and Imaging, 2020, 14 (2), 267-290.
 
 * TSDL
 
@@ -72,7 +72,7 @@ We have used the asymmetric Gaussian chirplet model (AGCM) and established a dic
 
 Reference:
 
-F. Bossmann, J. Ma, Asymmetric chirplet transform for sparse representation of seismic data, Geophysics, 2015, 80 (6), WD89-WD100.
+F. Bossmann, J. Ma, Asymmetric chirplet transform for sparse representation of seismic data, Geophysics, 2015, 80(6):WD89-WD100.
 
 F. Bossmann, J. Ma, Asymmetric chirplet transform Part 2: Phase, frequency, and chirp rate, Geophysiscs, 2016, 81(6):V425-V439.
 
@@ -82,7 +82,7 @@ An infimal convolution model is applied to split the corrupted 3D image into the
 
 Reference: 
 
-Fitschen J H, Ma J, Schuff S. Removal of curtaining effects by a variational model with directional forward differences. Computer Vision & Image Understanding, 2017, 155(13):24-32.
+J. Fitschen, J. Ma, S. Schuff, Removel of curtaining effects by a variational model with directional first and second order differences, Computer Vision and Image Understanding, 2017, 155, 24-32.
 
 * EMPCR:
 
@@ -90,7 +90,7 @@ We propose a simple yet efficient interpolation algorithm, which is based on the
 
 Reference:
 
-Jia Y, Yu S, Liu L, et al. A fast rank-reduction algorithm for three-dimensional seismic data interpolation. Journal of Applied Geophysics, 2016, 132:137-145.
+Y. Jia, S. Yu, L. Liu, et al. A fast rank-reduction algorithm for three-dimensional seismic data interpolation. Journal of Applied Geophysics, 2016, 132:137-145.
 
 * RegistrationMultiComponent:
 
@@ -106,7 +106,7 @@ We propose a simultaneous dictionary learning and denoising method for seismic d
 
 Reference:
 
-Beckouche S, Ma J. Simultaneous dictionary learning and denoising for seismic data. Geophysics, 2014, 79(3):A27-A31.
+S. Beckouche, J. Ma, Simultaneously dictionary learning and denoising for seismic data, Geophysics, 2014, 79 (3), A27-A31.
 
 * DDTF3D:
 
@@ -114,7 +114,7 @@ We study an application of the data-driven tight frame (DDTF) method to noise su
 
 Reference: 
 
-Yu S, Ma J, Zhang X, Sacchi M D. Interpolation and denoising of high-dimensional seismic data by learning a tight frame. Geophysics, 2015, 80(5):V119-V132.
+S. Yu, J. Ma, X. Zhang, M. Sacchi, Interpolation and denoising of high-dimensional seismic data by learning a tight frame, Geophysics, 2015, 80 (5), V119-V132.
 
 * MCDDTF3D:
 
@@ -122,7 +122,7 @@ We have designed a new patch selection method for DDTF seismic data recovery. We
 
 Reference: 
 
-Yu S, Ma J, Osher S. Monte Carlo data-driven tight frame for seismic data recovery. Geophysics, 2016, 81(4):V327-V340.
+S. Yu, J. Ma, S. Osher, Monte Carlo data-driven tight frame for seismic data recovery, Geophysics, 2016, 81 (4), V327-V340.
 
 * CVMD:
 
@@ -130,7 +130,7 @@ We have extended varitional mode decomposition to complex-valued situation and a
 
 Reference: 
 
-Yu S, Ma J. Complex variational model decomposition for slop-preserving denoising, IEEE Transactions on Geoscience and Remote Sensing, 2018, 56(1): 586-597.
+S. Yu, J. Ma, Complex variational model decomposition for slop-preserving denoising, IEEE Transactions on Geoscience and Remote Sensing, 2018, 56 (1), 586 - 597.
 
 * LDMM
 
@@ -138,7 +138,7 @@ We have applied low dimensional manifold method for seismic strong noise attenua
 
 Reference:
 
-Yu S, Osher S, Ma J. Shi Z. Noise attenuation in a low-dimensional manifold. Geophysics, 2017, 82(5): 321-334
+S. Yu, S. Osher, J. Ma, Z. Shi, Noise attenuation in a low dimensional manifold, Geophysics, 2017, 82 (5), V321-V334.
 
 * test data download link
 
