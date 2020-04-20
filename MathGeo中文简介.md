@@ -2,6 +2,33 @@
 
 地震数据处理工具箱，地球物理中心，哈尔滨工业大学
 
+## 2020更新
+
+#Deep learning related works
+
+* python_segy
+
+将去噪卷积神经网络用于随机噪声去除。
+
+参考文献:
+
+S. Yu, J. Ma*, W. Wang, Deep learning for denoising, Geophysics, 2019, 84 (6), V333-V350
+
+* FCNVMB
+
+将U-net用于从地震记录中预测速度模型
+
+参考文献:
+
+F. Yang, J. Ma*, Deep-learning inversion: a next generation seismic velocity model building method, Geophysics, 2019, 84 (4), R583-R599.
+
+* CNN-POCS
+
+将CNN和POCS组合起来用于地震数据插值
+
+参考文献:
+
+H. Zhang, X. Yang, J. Ma*, Can learning from natural image denoising be used for seismic data interpolation, Geophysics, 2020, 85 (4)
 
 ## 2018更新
 
