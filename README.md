@@ -74,7 +74,7 @@ Reference:
 
 F. Bossmann, J. Ma, Asymmetric chirplet transform for sparse representation of seismic data, Geophysics, 2015, 80 (6), WD89-WD100.
 
-F. Bossmann, J. Ma, Asymmetric chirplet transform ¡ª Part 2: Phase, frequency, and chirp rate, Geophysiscs, 2016, 81(6):V425-V439.
+F. Bossmann, J. Ma, Asymmetric chirplet transform Part 2: Phase, frequency, and chirp rate, Geophysiscs, 2016, 81(6):V425-V439.
 
 * Decurtain:
 
@@ -82,7 +82,7 @@ An infimal convolution model is applied to split the corrupted 3D image into the
 
 Reference: 
 
-Fitschen J H, Ma J, Schuff S. Removal of curtaining effects by a variational model with directional forward differences[J]. Computer Vision & Image Understanding, 2017, 155(13):24-32.
+Fitschen J H, Ma J, Schuff S. Removal of curtaining effects by a variational model with directional forward differences. Computer Vision & Image Understanding, 2017, 155(13):24-32.
 
 * EMPCR:
 
@@ -90,7 +90,7 @@ We propose a simple yet efficient interpolation algorithm, which is based on the
 
 Reference:
 
-Jia Y, Yu S, Liu L, et al. A fast rank-reduction algorithm for three-dimensional seismic data interpolation[J]. Journal of Applied Geophysics, 2016, 132:137-145.
+Jia Y, Yu S, Liu L, et al. A fast rank-reduction algorithm for three-dimensional seismic data interpolation. Journal of Applied Geophysics, 2016, 132:137-145.
 
 * RegistrationMultiComponent:
 
@@ -98,7 +98,7 @@ We propose a new curvelet-based registration method to improve the precision of 
 
 Reference:
 
-Wang H, Cheng Y, Ma J. Curvelet-based registration of multi-component seismic waves[J]. Journal of Applied Geophysics, 2014, 104(5):90-96.
+Wang H, Cheng Y, Ma J. Curvelet-based registration of multi-component seismic waves. Journal of Applied Geophysics, 2014, 104(5):90-96.
 
 * DL_toolbox
 
@@ -106,7 +106,7 @@ We propose a simultaneous dictionary learning and denoising method for seismic d
 
 Reference:
 
-Beckouche S, Ma J. Simultaneous dictionary learning and denoising for seismic data[J]. Geophysics, 2014, 79(3):A27-A31.
+Beckouche S, Ma J. Simultaneous dictionary learning and denoising for seismic data. Geophysics, 2014, 79(3):A27-A31.
 
 * DDTF3D:
 
@@ -114,7 +114,7 @@ We study an application of the data-driven tight frame (DDTF) method to noise su
 
 Reference: 
 
-Yu S, Ma J, Zhang X, et al. Interpolation and denoising of high-dimensional seismic data by learning a tight frame[J]. Geophysics, 2015, 80(5):V119-V132.
+Yu S, Ma J, Zhang X, Sacchi M D. Interpolation and denoising of high-dimensional seismic data by learning a tight frame. Geophysics, 2015, 80(5):V119-V132.
 
 * MCDDTF3D:
 
@@ -122,7 +122,7 @@ We have designed a new patch selection method for DDTF seismic data recovery. We
 
 Reference: 
 
-Yu S, Ma J, Osher S. Monte Carlo data-driven tight frame for seismic data recovery[J]. Geophysics, 2016, 81(4):V327-V340.
+Yu S, Ma J, Osher S. Monte Carlo data-driven tight frame for seismic data recovery. Geophysics, 2016, 81(4):V327-V340.
 
 * CVMD:
 
@@ -130,7 +130,7 @@ We have extended varitional mode decomposition to complex-valued situation and a
 
 Reference: 
 
-Yu S, Ma J. Complex Variational Mode Decomposition for Slop-preserving Denoising, summited to IEEE Transactions on Geoscience and Remote Sensing
+Yu S, Ma J. Complex variational model decomposition for slop-preserving denoising, IEEE Transactions on Geoscience and Remote Sensing, 2018, 56(1): 586-597.
 
 * LDMM
 
@@ -138,7 +138,7 @@ We have applied low dimensional manifold method for seismic strong noise attenua
 
 Reference:
 
-Yu S, et. al. Noise attenuation in a low dimensional manifold, Geophysics, 2017
+Yu S, Osher S, Ma J. Shi Z. Noise attenuation in a low-dimensional manifold. Geophysics, 2017, 82(5): 321-334
 
 * test data download link
 
