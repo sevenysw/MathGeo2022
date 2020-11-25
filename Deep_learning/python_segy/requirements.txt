@@ -1,0 +1,7 @@
+scipy
+numpy
+h5py
+segyio
+progressbar
+urllib3
+opencv-python
